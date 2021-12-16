@@ -2,7 +2,7 @@
 
 - 🎆 ECE graduate student @CMU
 - 🔭 Interested in computer architecture & embedded systems
-- 🌱 Currently learning digital design, operating systems, etc.
+- 🌱 Currently learning compilers & static program analysis, etc.
 - 🛠 Looking for full-time internship (2022 summer) in U.S.
 - 🍉 Eat watermelons every summer...
 - 💤 Sleep every day...
