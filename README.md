@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🎆 ECE graduate student @CMU
+- 🎆 ECE Master's student at Carnegie Mellon University
 - 🔭 Interested in computer architecture & embedded systems
-- 🌱 Currently learning compilers & static program analysis, etc.
-- 🛠 Looking for full-time internship (2022 summer) in U.S.
+- 🌱 Currently learning compilers & operating systems
 - 🍉 Eat watermelons every summer...
 - 💤 Sleep every day...
-- 📫 How to reach me: shili2048@gmail.com
+- 📫 How to reach me: shili2048@gmail.com / lishi@andrew.cmu.edu
